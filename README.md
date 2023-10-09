@@ -3,26 +3,16 @@
   <img src="https://github.com/Krt-dev/Krt-dev/blob/master/images/roomBanner.png?raw=true" alt="Pixel Art">
 </p>
 
-# Project Title
+# Kurt Sanchez
 
-A brief description of your project goes here.
+- Computer Science Major :mortar_board:
+- Movie Buff 📺
+- Professional Krunker Player 🎮
+- Anime? 🗾
+- E L F 🧝
 
-## Table of Contents
+## Discord
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- Recommend me Movies at slushi_sh0
 
-## Features
 
-- List the key features of your project here.
-- You can use pixel art icons to represent each feature.
-
-## Installation
-
-Provide installation instructions for your project. For example:
-
-```bash
-npm install your-package-name
