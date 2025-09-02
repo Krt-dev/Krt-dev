@@ -11,6 +11,7 @@
 ## 🚀 About Me
 
 
+```javascript
 const kurt = {
     education: "Computer Science Major 🎓",
     interests: ["Web Development", "Gaming", "Movies", "Anime"],
@@ -18,6 +19,7 @@ const kurt = {
     funFacts: ["Professional Krunker Player 🎮", "Movie Buff 📺", "Anime Enthusiast 🗾"],
     pronouns: "He/Him"
 };
+```
 
 
 ## 🛠️ Tech Stack
