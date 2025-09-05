@@ -52,7 +52,7 @@ const kurt = {
 
 - 🎬 **Movie Buff** - Always looking for great recommendations!
 - 🎮 **Gaming** - Professional Krunker player 
-- 📺 **Anime** - Currently watching: [Add your current anime here]
+- 📺 **Anime** - Currently watching: Gachiakuta, KAIJU NO.8, TO be Hero X
 - 🧝 **Fantasy Enthusiast** - Love everything fantasy related
 
 ## 🤝 Let's Connect!
